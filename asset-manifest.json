@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/face-AI/static/css/main.0449af30.chunk.css",
-    "main.js": "/face-AI/static/js/main.7d754ae2.chunk.js",
-    "main.js.map": "/face-AI/static/js/main.7d754ae2.chunk.js.map",
+    "main.css": "/face-AI/static/css/main.f715e14f.chunk.css",
+    "main.js": "/face-AI/static/js/main.76b8d25d.chunk.js",
+    "main.js.map": "/face-AI/static/js/main.76b8d25d.chunk.js.map",
     "runtime-main.js": "/face-AI/static/js/runtime-main.0dae9003.js",
     "runtime-main.js.map": "/face-AI/static/js/runtime-main.0dae9003.js.map",
     "static/css/2.31461e4f.chunk.css": "/face-AI/static/css/2.31461e4f.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.190c9f56.chunk.js.map": "/face-AI/static/js/2.190c9f56.chunk.js.map",
     "index.html": "/face-AI/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/face-AI/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.0449af30.chunk.css.map": "/face-AI/static/css/main.0449af30.chunk.css.map",
+    "static/css/main.f715e14f.chunk.css.map": "/face-AI/static/css/main.f715e14f.chunk.css.map",
     "static/js/2.190c9f56.chunk.js.LICENSE.txt": "/face-AI/static/js/2.190c9f56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0dae9003.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.190c9f56.chunk.js",
-    "static/css/main.0449af30.chunk.css",
-    "static/js/main.7d754ae2.chunk.js"
+    "static/css/main.f715e14f.chunk.css",
+    "static/js/main.76b8d25d.chunk.js"
   ]
 }
